@@ -1,5 +1,5 @@
 README
-
+---
 This repository, as the name suggests, is for me to practice, write about and learn some of the computer science fundamentals that I think I am weak at.
 
 Mainly I will be writing about:
@@ -12,3 +12,10 @@ Mainly I will be writing about:
 I am not sure what else will be included in this repository. This repo will act as a scratch pad of sorts for me to experiment and maybe go into the depths of certain things that I am fimilair with but not confident about.
 
 There will be a separate section about the interview questions that I get asked in the interviews that I've given.
+
+I'll keep writing about the things that I learn along the way which do not come under any of the above section headings: like, as I am writing this README, I am using [Emacs](https://www.emacswiki.org/) which I've never used before! So yay!
+
+For the curious, I am learning Emacs under the [#dgplug](https://www.dgplug.org/irclogs/) training sessions. Check it out! They are `#dgplug` on FREENODE IRC.
+
+
+
